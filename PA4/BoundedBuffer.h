@@ -7,7 +7,6 @@
 #include <mutex>
 #include <thread>
 #include <assert.h>
-#include <pthread.h>
 #include <condition_variable>
 
 using namespace std;
